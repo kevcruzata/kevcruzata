@@ -1,33 +1,27 @@
-# 👋 Hi, I'm Kevin Cruzata, but call me Kev!
+# Kevin Cruzata
 
-## 🎓 What I'm doing right now
+**Aspiring Software Developer**  
+Based in Switzerland | English, Italian, Filipino  
+Background in education and design
 
-- 🎓 Attending **CS50x: Introduction to Computer Science** (HarvardX)
-- 🌐 Learning frontend: HTML, CSS, JavaScript
-- 🔧 Exploring backend concepts and tools
-- 🧠 Practicing logic, algorithms, and clean code
+---
 
-## 🚧 What I'm working on
+### Currently
+- Studying **CS50x** (HarvardX)
+- Learning **HTML, CSS, JavaScript**
+- Exploring backend concepts
 
-- Projects and problem sets from CS50x
-- Building my first personal portfolio site
+### Projects (work in progress)
+- CS50x problem sets
+- Personal portfolio website
 
-## 🎯 My current goals
+### Goals
+- Complete CS50x with strong fundamentals  
+- Launch a real-world project on GitHub  
+- Learn **React** and a backend language (**Node.js** or **Python**)
 
-- ✅ Complete CS50x with a solid understanding of programming fundamentals
-- 🔲 Launch my first real-world project on GitHub
-- 🔲 Learn React and a backend language (Node.js or Python)
+---
 
-## 🙋‍♂️ About me
-
-- 📍 Based in Switzerland 🇨🇭
-- 🗣️ I speak English, Italian, and Filipino
-- 🎓 Background in education and design
-- ✨ Now blending creativity with code
-
-## 📫 Let's connect
-
-- 📧 kev.cruzata@gmail.com  
-- 🌐 [gravatar.com/kevincruzata](https://gravatar.com/kevincruzata)
-
-Thanks for stopping by – follow along as I grow into a full-stack developer! 🚀
+### Contact
+📧 hello@kevcruzata.com  
+🌐 [gravatar.com/kevincruzata](https://gravatar.com/kevincruzata)
