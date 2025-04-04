@@ -1,4 +1,4 @@
-# Kevin Cruzata
+# Kevin "Kev" Cruzata 👑
 
 **Aspiring Software Developer**  
 Based in Switzerland | English, Italian, Filipino  
