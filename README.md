@@ -1,4 +1,4 @@
-# Hey, I’m Kevin Cruzata — or just Kev! 👑
+# Hey! Ciao! Kumusta? Kev here. 👑
 
 **Aspiring Software Developer**  
 📍 Switzerland | 🗣️ Speaks English, Italian, and Filipino fluently  
