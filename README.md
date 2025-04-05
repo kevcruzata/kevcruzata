@@ -1,7 +1,7 @@
 # Hey! Ciao! Kumusta? Kev here. 👑
 
 **Aspiring Software Developer**  
-📍 Switzerland | 🗣️ Speaks English, Italian, and Filipino fluently  
+📍 Locarno, Switzerland | 🗣️ Speaks English, Italian, and Filipino fluently  
 🎨 A teacher at heart, a developer in the making — blending logic, empathy, and a love for learning.
 
 ---
