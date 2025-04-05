@@ -14,7 +14,7 @@
 ---
 
 ### Goals
-- Master the fundamentals of computer science  
+- Master the fundamentals of computer science/engineering  
 - Build and ship real projects on GitHub  
 - Launch a sleek, personal portfolio (no templates, promise)
 
