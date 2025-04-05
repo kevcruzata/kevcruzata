@@ -8,7 +8,7 @@
 
 ### 🚀 Currently
 - Taking on **CS50x** (HarvardX) — one problem set at a time  
-- Diving into **HTML, CSS, JavaScript** (Yes, I use my own CSS.)  
+- Diving into **HTML, CSS, JavaScript**
 - Sneaking into the backend world with **Node.js** or **Python**
 
 ---
