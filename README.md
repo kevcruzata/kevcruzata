@@ -21,7 +21,6 @@
 ---
 
 ### 💬 Let’s Connect
-📧 hello@kevcruzata.com  
 🌐 [gravatar.com/kevincruzata](https://gravatar.com/kevincruzata)
 
 ---
