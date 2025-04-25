@@ -1,6 +1,6 @@
 # Hiyiiiee! KEV here. 
 
-**Aspiring Software Developer**  
+**Aspiring Developer**  
 - 📍 Locarno, Switzerland
 - 👑 A teacher at heart, a developer in the making — blending logic, empathy, and a love for learning.
 
