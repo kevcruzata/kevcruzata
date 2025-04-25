@@ -21,7 +21,7 @@
 ---
 
 ### Let’s Connect
-[gravatar.com/kevincruzata](https://gravatar.com/kevincruzata)
+[kevcruzata.com](https://kevcruzata.com/)
 
 ---
 
