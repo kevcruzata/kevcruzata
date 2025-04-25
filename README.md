@@ -7,16 +7,15 @@
 ---
 
 ### Currently
-- Taking on **CS50x** (HarvardX) — one problem set at a time  
+- Attending CS50x - Intro to CS (foundations)
 - Diving into **HTML, CSS, JavaScript**
-- Sneaking into the backend world with **Node.js** or **Python**
+- Learning Git and Github version control
 
 ---
 
 ### Goals
-- Master the fundamentals of computer science/engineering  
-- Build and ship real projects on GitHub  
 - Launch a sleek, personal portfolio (no templates, promise)
+- Build and ship real projects on GitHub  
 
 ---
 
